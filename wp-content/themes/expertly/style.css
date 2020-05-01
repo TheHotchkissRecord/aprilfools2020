@@ -1010,7 +1010,7 @@ input[type="submit"]:focus,
 --------------------------------------------------------------*/
 @font-face {
 	font-family: "cs-icons";
-	src: url("/wp-content/themes/expertly/css/fonts/icons.ttf") format("truetype"), url("/wp-content/themes/expertly/css/fonts/icons.woff") format("woff"), url("/wp-content/themes/expertly/css/fonts/icons.svg#icons") format("svg");
+	src: url("./css/fonts/icons.ttf") format("truetype"), url("./css/fonts/icons.woff") format("woff"), url("./css/fonts/icons.svg#icons") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
